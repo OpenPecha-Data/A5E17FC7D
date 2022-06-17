@@ -1,0 +1,25 @@
+segment_sources:
+  ICB4D4865:
+    type: origin_type
+    relation: translation
+    language: en
+  I278247E6:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  dc360adc55af48b08bcec1d69b6d1af5:
+    ICB4D4865: ffa01f0ded7d40a99dfd41d55e9f2649
+    I278247E6: 6a0e445d31534179a38aa6113deef3a9
+  2ff6a922428943259833df4d1bfdbaf8:
+    ICB4D4865: c7978751c36a44f18184e6681a8670ee
+    I278247E6: dddd01faaa4a4c218e4d7029f55aa811
+  d0247910c887483cb7171f9fdfac817c:
+    ICB4D4865: 0d6236c345224b46bdb41de6915f3ecb
+    I278247E6: 1317bdff3f8f4de88330e89322d89e73
+  8882d76367e1434aad815f42e64cd521:
+    ICB4D4865: 472d875a180944179832a3f4ace18522
+    I278247E6: 1b2d17af1d9b45c5a3c26505ab7534c3
+  4328d3f2594c4945b401058755e617ec:
+    ICB4D4865: 3ae96639c49a495284bc635f282005e4
+    I278247E6: 48ecc9eec97142dd90296a714cab2bb9
